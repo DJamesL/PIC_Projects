@@ -1,0 +1,56 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+CLKOUTEN_OFF	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	17;"	v	line:17
+INIT_PORTA::0b00000100	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	16;"	d	line:16
+INIT_PORTB::0x00	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	28;"	d	line:28
+INIT_TMR0::0x06;	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	10;"	d	line:10
+LVP_OFF	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	18;"	v	line:18
+PININ_MCLR_A5::RA5	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	23;"	d	line:23
+PININ_PBUTTON_B3::RB3	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	33;"	d	line:33
+PININ_SW1_B0::RB0	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	30;"	d	line:30
+PININ_SW2_B1::RB1	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	31;"	d	line:31
+PININ_SW3_B2::RB2	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	32;"	d	line:32
+PINOUT_LED1_A1::RA1	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	19;"	d	line:19
+PINOUT_LED2_A0::RA0	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	18;"	d	line:18
+PINOUT_LED3_A7::RA7	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	25;"	d	line:25
+PINOUT_LED4_A6::RA6	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	24;"	d	line:24
+PINOUT_unusedA2::RA2	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	20;"	d	line:20
+PINOUT_unusedA3::RA3	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	21;"	d	line:21
+PINOUT_unusedA4::RA4	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	22;"	d	line:22
+PINOUT_unusedB4::RB4	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	34;"	d	line:34
+PINOUT_unusedB5::RB5	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	35;"	d	line:35
+PINOUT_unusedB6::RB6	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	36;"	d	line:36
+PINOUT_unusedB7::RB7	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	37;"	d	line:37
+TRISA_CONFIG::0b00000100	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	17;"	d	line:17
+TRISB_CONFIG::0b00000001	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	29;"	d	line:29
+i8_LED1_time	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	22;"	v	line:22
+i8_LED2_time	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	22;"	v	line:22
+i8_LED3_time	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	22;"	v	line:22
+i8_LED4_time	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	22;"	v	line:22
+i8_switch_debounce	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	22;"	v	line:22
+i8local	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	127;"	l	line:127
+initialization	D:\Projects_LOCAL\PIC16F1827\BASICIO\Peripheral_Initialization.h	4;"	f	line:4	signature:(void)
+isr	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	82;"	f	line:82	signature:(void)
+k8_switch_debounce::25	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	45;"	d	line:45
+k8_time1::250	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	41;"	d	line:41
+k8_time2::188	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	42;"	d	line:42
+k8_time3::188	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	43;"	d	line:43
+k8_time4::125	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	44;"	d	line:44
+main	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	25;"	f	line:25	signature:(void)
+new1	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	23;"	v	line:23
+new2	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	23;"	v	line:23
+new3	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	23;"	v	line:23
+new4	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	23;"	v	line:23
+out_PORTA	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	125;"	f	line:125	signature:(int x)
+out_PORTA	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	6;"	p	line:6	signature:(int x)
+output_a	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	115;"	f	line:115	signature:(int x)
+output_a	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	4;"	p	line:4	signature:(int porta)
+output_b	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.c	120;"	f	line:120	signature:(int x)
+output_b	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	5;"	p	line:5	signature:(int porta)
+toggle	D:\Projects_LOCAL\PIC16F1827\BASICIO\main.h	3;"	p	line:3	signature:(int new)

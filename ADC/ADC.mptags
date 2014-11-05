@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+CLKOUTEN_OFF	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	17;"	v	line:17
+INIT_PORTA::0b11000011	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	16;"	d	line:16
+INIT_PORTB::0x00	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	28;"	d	line:28
+INIT_TMR0::0x06;	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	10;"	d	line:10
+LVP_OFF	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	18;"	v	line:18
+PININ_ANALOG_A2::RA2	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	20;"	d	line:20
+PININ_MCLR_A5::RA5	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	23;"	d	line:23
+PINOUT_LED1_A1::RA1	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	19;"	d	line:19
+PINOUT_LED2_A0::RA0	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	18;"	d	line:18
+PINOUT_LED3_A7::RA7	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	25;"	d	line:25
+PINOUT_LED4_A6::RA6	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	24;"	d	line:24
+PINOUT_PBUTTON_B3::RB3	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	33;"	d	line:33
+PINOUT_SW1_B0::RB0	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	30;"	d	line:30
+PINOUT_SW2_B1::RB1	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	31;"	d	line:31
+PINOUT_SW3_B2::RB2	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	32;"	d	line:32
+PINOUT_unusedA3::RA3	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	21;"	d	line:21
+PINOUT_unusedA4::RA4	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	22;"	d	line:22
+PINOUT_unusedB4::RB4	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	34;"	d	line:34
+PINOUT_unusedB5::RB5	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	35;"	d	line:35
+PINOUT_unusedB6::RB6	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	36;"	d	line:36
+PINOUT_unusedB7::RB7	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	37;"	d	line:37
+TRISA_CONFIG::0b00000100	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	17;"	d	line:17
+TRISB_CONFIG::0b00000000	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	29;"	d	line:29
+_XTAL_FREQ::16000000	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	20;"	d	line:20	file:
+i8local	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	94;"	l	line:94
+initialization	D:\Projects_LOCAL\PIC16F1827\ADC\Peripheral_Initialization.h	4;"	f	line:4	signature:(void)
+isr	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	65;"	f	line:65	signature:(void)
+main	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	23;"	f	line:23	signature:(void)
+out_PORTA	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	92;"	f	line:92	signature:(int x)
+out_PORTA	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	6;"	p	line:6	signature:(int x)
+output_a	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	82;"	f	line:82	signature:(int x)
+output_a	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	4;"	p	line:4	signature:(int porta)
+output_b	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	87;"	f	line:87	signature:(int x)
+output_b	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	5;"	p	line:5	signature:(int porta)
+toggle	D:\Projects_LOCAL\PIC16F1827\ADC\main.h	3;"	p	line:3	signature:(int new)
+u16Temp	D:\Projects_LOCAL\PIC16F1827\ADC\main.c	21;"	v	line:21	file:
